@@ -1,1 +1,44 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Curriculum Cr Training Contact Form
+
+> In this project, I am creating the form with formspree service. The website is web responsive and mobile and desktop friendly.
+
+## Screenshot - Desktop
+
+![_D__Microverse%20Full%20Time%20Course_Code%20Reviewer_training-hello-microverse_index html](https://user-images.githubusercontent.com/49184579/174796999-69550ae9-b7f3-4b04-ac53-634a779417b1.png)
+
+## Built With
+
+- HTML and CSS
+- Linters and Hint
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+On your terminal type: git clone git@github.com:aboongm/curriculum-cr-training-contact-form
+.git
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@aboongm](https://github.com/aboongm)
+- Twitter: [@John_luang1](https://twitter.com/John_luang1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aboongm)
+
+👤
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks to Microverse for the template of this!
