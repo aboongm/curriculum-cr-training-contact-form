@@ -325,3 +325,15 @@ li {
 .skills {
   list-style: inside url('../media/svg/circle.svg');
 }
+
+
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-footer {
+  padding: 120px 24px;
+}
