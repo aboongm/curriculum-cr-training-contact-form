@@ -326,7 +326,6 @@ li {
   list-style: inside url('../media/svg/circle.svg');
 }
 
-
 footer {
   display: flex;
   flex-direction: column;
@@ -440,4 +439,32 @@ textarea:hover::placeholder {
 
 .social-1 {
   padding: 15px 15px;
+}
+
+@media screen and (min-width: 1024px) {
+  footer {
+    padding: 0 135px;
+  }
+
+  .container-footer {
+    display: flex;
+    padding: 130px 0;
+  }
+
+  .text-1 {
+    text-align: left;
+    width: 52%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    align-items: center;
+    color: #262626;
+  }
+
+  form {
+    margin-left: 24px;
+    align-items: flex-start;
+  }
 }
